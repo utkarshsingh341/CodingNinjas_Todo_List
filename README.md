@@ -1,6 +1,6 @@
 # Todo list app
 
-### General steps to follow when creating a project
+### Project Outline
 
 - User Interface (HTML, CSS)
 
